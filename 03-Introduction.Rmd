@@ -25,7 +25,7 @@ knitr::include_graphics("images/Introduction.png")
 - [Breakout Room 3](#Room-3): Unity - Tom Elton
 
 
-## Debreif - Main Room {.unlisted .unnumbered}
+## Debrief - Main Room {.unlisted .unnumbered}
 
 > The session will conclude with a debrief, as we come together one final time.
 
