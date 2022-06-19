@@ -1,0 +1,7 @@
+# Debrief {#Debrief}
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/Debrief.png")
+```
+
+*To do...*

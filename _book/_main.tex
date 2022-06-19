@@ -1,0 +1,223 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{abstract}{%
+\chapter{Abstract}\label{abstract}}
+
+\hypertarget{how-can-we-utilise-digital-3d-modelling-tools-to-support-the-development-of-chemistry-students}{%
+\section*{How can we utilise digital 3D modelling tools to support the development of chemistry students?}\label{how-can-we-utilise-digital-3d-modelling-tools-to-support-the-development-of-chemistry-students}}
+
+\includegraphics[width=26.92in]{images/STA_Header}
+
+\hypertarget{workshop-description}{%
+\section*{Workshop Description}\label{workshop-description}}
+
+One of the greatest hurdles in teaching chemistry has long been fostering the ability to move between symbolic representations, macro-level observations, and how atoms are arranged and interact at the molecular level. This skill underpins all aspects of chemistry and is one that benefits not only practicing chemists but also the broader population that our students will enter and contribute to.
+
+As technology advances and becomes more accessible, opportunities are rapidly arising to better address this challenge with the use of 3D modelling software and applications. Across these tools, students are given the chance to build and view molecules in a 3D space and better understand how factors such as size, orientation, and electron density can contribute to properties and reactivity. This is not to say they are perfect solutions though! In this workshop, we will showcase a small number of promising tools that we have found useful in our own practice in addition to some future avenues that could add further value. We expect participants will gain exposure to some new tools they could utilise, share their own experiences or tools they currently use, and participate in a rich discussion of approaches to this challenge.
+
+\textbf{Presenters:} Jody Moller\textsuperscript{a}, Shane Wilkinson\textsuperscript{a}, Tom Elton\textsuperscript{a}, Stephen George-Williams\textsuperscript{a}, Reyne Pullen\textsuperscript{a}.
+
+\textbf{Location:} Online.
+
+\textbf{Time:} Thursday 23rd June 2022, 4:25pm.
+
+\textsuperscript{a}School of Chemistry, The University of Sydney, Sydney NSW, Australia
+
+\hypertarget{meet-the-presenters}{%
+\chapter{Meet The Presenters}\label{meet-the-presenters}}
+
+\includegraphics[width=26.31in]{images/Presenters}
+
+\hypertarget{reyne-pullen}{%
+\section*{Reyne Pullen}\label{reyne-pullen}}
+
+Dr Reyne Pullen is currently employed as an Education-focused lecturer in the School of Chemistry, University of Sydney. Recently awarded the 2021 RACI Chemistry Educator of the Year, Reyne has experience in delivering online and blended learning experiences, and designing course-level blended learning models, both at the tertiary level. Reyne has also worked within the secondary education sector, teaching both science and maths.
+
+\hypertarget{jody-moller}{%
+\section*{Jody Moller}\label{jody-moller}}
+
+Dr Jody Moller (Morgan) is an Education-focused lecturer in the School of Chemistry at the University of Sydney. Jody has been teaching chemistry at a tertiary level since 2004 and was awarded an Outstanding Contributions to Teaching and Learning (OCTAL) Award from the University of Wollongong in 2020. She has extensive experience in the use of modelling tools to enhance student learning in the online environment. Jody is also a qualified high school science teacher, completing her Graduate Diploma in Education in 2007.
+
+\hypertarget{shane-wilkinson}{%
+\section*{Shane Wilkinson}\label{shane-wilkinson}}
+
+Dr Shane Wilkinson is an Education-focused lecturer in the School of Chemistry, University of Sydney. He has a keen interest in the adoption of technology to enhance the way we teach and deliver chemistry in both classroom and laboratory environments. An example is augmented reality (AR) and how it can be used as a tool in education or as means of inclusivity for disadvantaged students in STEM subjects. Shane is also adept in the use of ``teaching analytics'' software to deliver personalised student experiences in large scale teaching environments. He also has a passion for laboratory pedagogy where he has extensive experience in designing remote, blended and practical laboratory coursework with a focus on authentic and/or competency-based laboratory assessments.
+
+\hypertarget{stephen-george-williams}{%
+\section*{Stephen George-Williams}\label{stephen-george-williams}}
+
+Dr Stephen George-Williams is an Education-focused lecturer based at the School of Chemistry, University of Sydney. His research has explored several areas including the purpose of the chemistry teaching laboratory, the relationships built between students and teaching assistants in the teaching laboratory, and the use of virtual reality (VR) to support teaching chemistry in the classroom.
+
+\hypertarget{tom-elton}{%
+\section*{Tom Elton}\label{tom-elton}}
+
+Mr Tom (Thomas) Elton is currently a computer and data science student at the University of Sydney. With a passion in technological innovations in education, he has recently enjoyed collaborating as a research assistant in the School of Chemistry (University of Sydney), where he is putting together a publicly available code package to easily generate 3D molecules in Unity. This aims to significantly speed up the development time when creating VR and AR interactive chemistry lessons.
+
+\hypertarget{acknowledgment-of-country}{%
+\chapter{Acknowledgment of Country}\label{acknowledgment-of-country}}
+
+\includegraphics[width=23.36in]{images/Acknowledgment_of_Country}
+
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+\includegraphics[width=25.22in]{images/Introduction}
+
+\hypertarget{introduction---main-room}{%
+\section*{Introduction - Main Room}\label{introduction---main-room}}
+
+\begin{quote}
+The session will begin with audience members sharing how they commonly represent and visualise 3D molecules in the classroom. The presenters will then briefly share three different ways of visualising 3D molecules that they find helpful.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  The lecture slides can be downloaded from \href{}{here}.
+\item
+  The Padlet can be accessed \href{}{here}.
+\item
+  \emph{PDF of Padlet Questions can be accessed \href{}{here} after the presentation.}
+\end{itemize}
+
+\hypertarget{breakout-rooms}{%
+\section*{Breakout Rooms}\label{breakout-rooms}}
+
+\begin{quote}
+After hearing of three different ways of visualising 3D molecules, audience members now get to choose one method for a more-indepth workshop.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  \protect\hyperlink{Room-1}{Breakout Room 1}: MolView, CheMagic \& ChemTube3D - Jody Moller
+\item
+  \protect\hyperlink{Room-2}{Breakout Room 2}: Apps - Shane Wilkinson
+\item
+  \protect\hyperlink{Room-3}{Breakout Room 3}: Unity - Tom Elton
+\end{itemize}
+
+\hypertarget{debreif---main-room}{%
+\section*{Debreif - Main Room}\label{debreif---main-room}}
+
+\begin{quote}
+The session will conclude with a debrief, as we come together one final time.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  \protect\hyperlink{Debrief}{Debrief}
+\end{itemize}
+
+\hypertarget{Room-1}{%
+\chapter{Breakout Room 1}\label{Room-1}}
+
+\includegraphics[width=30.58in]{images/Room_1}
+
+\emph{To do\ldots{}}
+
+\hypertarget{Room-2}{%
+\chapter{Breakout Room 2}\label{Room-2}}
+
+\includegraphics[width=26.19in]{images/Room_2}
+
+\emph{To do\ldots{}}
+
+\hypertarget{Room-3}{%
+\chapter{Breakout Room 3}\label{Room-3}}
+
+\includegraphics[width=26.08in]{images/Room_3}
+
+\emph{To do\ldots{}}
+
+\hypertarget{Debrief}{%
+\chapter{Debrief}\label{Debrief}}
+
+\includegraphics[width=27.17in]{images/Debrief}
+
+\emph{To do\ldots{}}
+
+\end{document}

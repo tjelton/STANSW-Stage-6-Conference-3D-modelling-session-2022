@@ -1,0 +1,5 @@
+# Acknowledgment of Country
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/Acknowledgment_of_Country.png")
+```

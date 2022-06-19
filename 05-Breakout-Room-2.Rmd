@@ -1,0 +1,7 @@
+# Breakout Room 2 {#Room-2}
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/Room_2.png")
+```
+
+*To do...*

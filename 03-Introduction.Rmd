@@ -1,0 +1,34 @@
+# Introduction
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/Introduction.png")
+```
+
+## Introduction - Main Room {.unlisted .unnumbered}
+
+> The session will begin with audience members sharing how they commonly represent and visualise 3D molecules in the classroom. The presenters will then briefly share three different ways of visualising 3D molecules that they find helpful.
+
+<br>
+
+- The lecture slides can be downloaded from [here]().
+- The Padlet can be accessed [here]().
+- *PDF of Padlet Questions can be accessed [here]() after the presentation.*
+
+## Breakout Rooms {.unlisted .unnumbered}
+
+> After hearing of three different ways of visualising 3D molecules, audience members now get to choose one method for a more-indepth workshop.
+
+<br>
+
+- [Breakout Room 1](#Room-1): MolView, CheMagic & ChemTube3D - Jody Moller
+- [Breakout Room 2](#Room-2): Apps - Shane Wilkinson
+- [Breakout Room 3](#Room-3): Unity - Tom Elton
+
+
+## Debreif - Main Room {.unlisted .unnumbered}
+
+> The session will conclude with a debrief, as we come together one final time.
+
+<br>
+
+- [Debrief](#Debrief)
