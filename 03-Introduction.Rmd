@@ -21,7 +21,7 @@ knitr::include_graphics("images/Introduction.png")
 <br>
 
 - [Breakout Room 1](#Room-1): MolView, CheMagic & ChemTube3D - Jody Moller
-- [Breakout Room 2](#Room-2): Apps - Shane Wilkinson
+- [Breakout Room 2](#Room-2): 3D Models in Microsoft Office and Avogadro - Shane Wilkinson
 - [Breakout Room 3](#Room-3): Unity - Tom Elton
 
 
