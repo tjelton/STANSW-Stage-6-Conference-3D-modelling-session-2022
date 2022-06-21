@@ -8,14 +8,14 @@ knitr::include_graphics("images/Room_1.png")
 
 <br>
 
-Worksheet can be download [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%201/STANSW%20Stage6%20Worksheet%20-%20Breakout%201%20MOLLER.pdf)!
+Worksheet can be download [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%201/STANSW%20Stage6%20Worksheet%20-%20Breakout%201%20MOLLER.pdf){target="_blank"}!
 
 <br>
 
 Quick links:
 
-- [MolView](https://molview.org/)
+- [MolView](https://molview.org/){target="_blank"}
 
-- [CheMagic](https://chemagic.org/molecules/amini.html)
+- [CheMagic](https://chemagic.org/molecules/amini.html){target="_blank"}
 
-- [ChemTube3D](www.chemtube3d.com/main-page/)
+- [ChemTube3D](https://www.chemtube3d.com/){target="_blank"}
