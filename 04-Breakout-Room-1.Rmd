@@ -4,4 +4,18 @@
 knitr::include_graphics("images/Room_1.png")
 ```
 
-*To do...*
+**Presented by Dr Jody Moller**
+
+<br>
+
+Worksheet can be download [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%201/STANSW%20Stage6%20Worksheet%20-%20Breakout%201%20MOLLER.pdf)!
+
+<br>
+
+Quick links:
+
+- [MolView](https://molview.org/)
+
+- [CheMagic](https://chemagic.org/molecules/amini.html)
+
+- [ChemTube3D](www.chemtube3d.com/main-page/)
