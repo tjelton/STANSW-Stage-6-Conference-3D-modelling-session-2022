@@ -8,14 +8,28 @@ knitr::include_graphics("images/Room_2.png")
 
 <br>
 
-The Instructors worksheet can be downloaded [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/3D%20Molecule%20Workshop%20Instructions.pdf)!
+The Instructors worksheet can be downloaded [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/3D%20Molecule%20Workshop%20Instructions.pdf){target="_blank"}!
 
-A sample student worksheet can be downloaded [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Sample%203D%20Worksheets.docx)!
+A sample student worksheet can be downloaded [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Sample%203D%20Worksheets.docx){target="_blank"}!
 
 <br>
 
 Quick links:
 
-- [Avogadro](https://avogadro.cc/)
+- [Avogadro](https://avogadro.cc/){target="_blank"} - Freeware Molecular editor
 
-- [Blender](https://www.blender.org/download/)
+- [Blender](https://www.blender.org/download/){target="_blank"} - Open-source 3D graphics editor
+
+<br>
+
+Pre-fab 3D Molecules:
+
+- [Ethane.obj](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Pre-fab%203D%20Molecules/Ethane.obj){target="_blank"}
+
+- [Ethene.obj](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Pre-fab%203D%20Molecules/Ethene.obj){target="_blank"}
+
+- [Ethyne.obj](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Pre-fab%203D%20Molecules/Ethyne.obj){target="_blank"}
+
+- [Pent-3-enoic acid.obj](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Breakout%20Room%202/Pre-fab%203D%20Molecules/Pent-3-enoic%20acid.obj){target="_blank"}
+
+
