@@ -11,7 +11,7 @@ knitr::include_graphics("images/Introduction.png")
 <br>
 
 - The lecture slides can be downloaded from [here]().
-- The Padlet can be accessed [here]().
+- The Padlet can be accessed [here](https://padlet.com/jodymoller/xxl5j4i916uhhn64).
 - *PDF of Padlet Questions can be accessed [here]() after the presentation.*
 
 ## Breakout Rooms {.unlisted .unnumbered}
