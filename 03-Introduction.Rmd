@@ -10,7 +10,7 @@ knitr::include_graphics("images/Introduction.png")
 
 <br>
 
-- The lecture slides can be downloaded from [here]().
+- The lecture slides can be downloaded from [here](https://github.com/tjelton/STANSW-Stage-6-Conference-3D-modelling-session-2022/blob/main/Worksheets/Slides/2022%20STANSW%20ST6%203D%20Modelling%20Presentation.pdf).
 - The Padlet can be accessed [here](https://padlet.com/jodymoller/xxl5j4i916uhhn64){target="_blank"}.
 - *PDF of Padlet Questions can be accessed [here]() after the presentation.*
 
