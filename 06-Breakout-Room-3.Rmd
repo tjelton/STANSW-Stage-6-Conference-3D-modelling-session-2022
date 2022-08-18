@@ -153,6 +153,12 @@ Once this is done, you should see the project appear in your "Unity Hub". Click 
 knitr::include_graphics("images/New_3D_Project.png")
 ```
 
+<br>
+
+> Update: There is an intermediate step here that I didn't realise was required (oops)! You need to have GitHub installed on your computer for this installation to be successful - some of you may already have it installed (which is why I didn't mention it in this original tutorial)! For an installation guide for Mac, Windows and Linux, please see [here](https://www.atlassian.com/git/tutorials/install-git).
+
+<br>
+
 Now, in the project tab, click on the folder that says packages. Right click on this folder, and then navigate to the button which says "View in Package Manager". Click on this button.
 
 ```{r, echo=FALSE}
